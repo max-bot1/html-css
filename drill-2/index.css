@@ -1,0 +1,66 @@
+.shapes {
+  border: 5px solid #000000;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 30px;
+}
+
+.purp-rectangle {
+  height: 200px;
+  width: 40px;
+  background-color: #8a2be2;
+  display: inline-block;
+  margin-right: 100px;
+  margin-left: 10px;
+  /* justify-self: flex-start; */
+}
+.green-rectangle {
+  height: 300px;
+  width: 320px;
+  margin-right: 100px;
+  display: inline-block;
+  background-color: #228b22;
+}
+.circle {
+  height: 300px;
+  display: inline-block;
+  width: 300px;
+  background-color: #87ceeb;
+  border-radius: 50%;
+}
+.tan-box {
+  display: flex;
+  flex-direction: column;
+  border: 5px dotted #000000;
+  padding: 30px;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+  padding: 40px;
+  margin-top: 30px;
+}
+.tan {
+  height: 200px;
+  width: 1000px;
+  background-color: #fffacd;
+  margin: auto;
+  box-shadow: 10px 10px 10px #404040;
+  margin-top: auto;
+}
+.hello {
+  height: 250px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 100px;
+  box-shadow: 5px 5px 5px 5px #404040;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 30px;
+  display: flex;
+}
+
+.text {
+  display: inline-block;
+  margin: auto;
+  color: #000080;
+}
