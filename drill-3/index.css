@@ -1,1 +1,41 @@
-d
+.container {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
+.gray {
+  color: #d8d8d8;
+  background-color: #d8d8d8;
+  display: inline-block;
+  height: 180px;
+}
+.white {
+  color: #ffffff;
+  background-color: #ffffff;
+  display: inline-block;
+  height: 300px;
+}
+.blue {
+  color: #4a90e2;
+  background-color: #4a90e2;
+  display: inline-block;
+  height: 180px;
+}
+.teal {
+  color: #50e3c2;
+  background-color: #50e3c2;
+  display: inline-block;
+  height: 180px;
+}
+.green {
+  color: #b8e986;
+  background-color: #b8e986;
+  display: inline-block;
+  height: 180px;
+}
+.yellow {
+  color: #f8e71c;
+  background-color: #f8e71c;
+  display: inline-block;
+  height: 180px;
+}
